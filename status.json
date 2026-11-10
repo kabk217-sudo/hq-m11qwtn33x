@@ -1,0 +1,236 @@
+{
+ "generated": 1794672750624,
+ "generated_text": "Sat 14 Nov 16:12",
+ "agents": [
+  {
+   "name": "Ultron",
+   "role": "brain",
+   "status": "⏸️ Idle",
+   "state": "idle",
+   "task": "Fri 13 Nov 01:40: Malenia video uploaded (title, description, A/B test B/C/A saved; schedule Fri 6:30pm to confirm). Moblin → Twitch set up. 7 Shorts kept from 11 Nov",
+   "eta": "—",
+   "waiting": "Fri: check Malenia shows Scheduled 18:30 in Studio · 5-min IRL live test outside · stream ~8:30pm + reacts hour · Mon: Iceland money vs NVDA in the Money tab",
+   "updated": "Fri 13 Nov 01:40"
+  },
+  {
+   "name": "Jynxzi",
+   "role": "clipper",
+   "status": "⏸️ Ready",
+   "state": "idle",
+   "task": "✅ Fri # Nov VOD: # picks → Speed (# handstand fails, Abu story, 'not Indian' supercut, bunny boy, hair roast, PBZ Stone Hand lock-in, virgin one-liner, Elden Ring pub story, Amazon position = borderline). Reacts timestamps → Joe. Picks: [file](C) picks_jynxzi.md",
+   "eta": "—",
+   "waiting": "",
+   "updated": "Sat 14 Nov 01:00"
+  },
+  {
+   "name": "Speed",
+   "role": "shorts editor",
+   "status": "⏸️ Ready",
+   "state": "idle",
+   "task": "✅ Tue 10 Nov Malenia batch final: Sliver (11.2s), Nan, Bark, Cheese + Crashouts 3 in NEEDS REVIEW. Zeph re-check pending. BurntPeanut react binned. Style Guide logged",
+   "eta": "—",
+   "waiting": "",
+   "updated": "Wed 11 Nov 01:46"
+  },
+  {
+   "name": "Joe",
+   "role": "YouTube editor",
+   "status": "⏸️ Ready",
+   "state": "idle",
+   "task": "✅ FINAL (Zeph fixes done, mix12/no Spotify, slur-checked): SAT 6:30pm 'The Grappler Ripped His Whole Car Apart (v2)' 22:26 · SUN 6:30pm 'He Really Thought JiDion Would Let Him Go (v2)' 40:40 (clean packaging). Case thumbs built for both",
+   "eta": "—",
+   "waiting": "Face shots for Case (both) + confirm the 'I don't think you're a bad guy' host is JiDion",
+   "updated": "Sat 14 Nov 02:10"
+  },
+  {
+   "name": "Case",
+   "role": "titles + thumbnails",
+   "status": "⏸️ Ready",
+   "state": "idle",
+   "task": "Done: Grappler (Zeph C 8 / A 7.5 / B 6.5) and JiDion (B 7 / A 6.5 / C 6.5, clean check passed) sets final with Kabob's real ears-ON faces, in `1 Need To Use`. Both videos already scheduled; thumbnails + descriptions get added in Studio",
+   "eta": "—",
+   "waiting": "Add thumbnails in Studio: Grappler order C, A, B; JiDion order B, A, C (Test & Compare, default first)",
+   "updated": "Sat 14 Nov 03:21"
+  },
+  {
+   "name": "Zeph",
+   "role": "viewer / shorts critic",
+   "status": "⏸️ Idle",
+   "state": "idle",
+   "task": "✅ Fri 13 Nov fix round checked: use the 5 _tight versions (Ethnicity_tight 7), Prayed YES; Pub ending + Bunny Girl dead air still to fix → Speed",
+   "eta": "—",
+   "waiting": "",
+   "updated": "Sat 14 Nov"
+  },
+  {
+   "name": "Kabob",
+   "role": "trader",
+   "status": "⏸️ Idle",
+   "state": "idle",
+   "task": "✅ Halal AI Shortlist done (Thu 12 Nov 23:40) → [file] (Trader Agent)/(C) Halal AI Shortlist - 2026-11.md, for the Mon 16 Nov review. Learn Day 1 done earlier (IFG 375/375)",
+   "eta": "—",
+   "waiting": "",
+   "updated": "Fri 13 Nov"
+  },
+  {
+   "name": "HQ Builder",
+   "role": "dashboard",
+   "status": "⏸️ Idle",
+   "state": "idle",
+   "task": "✅ Ultron HQ v2 live: 12-room pixel office (meeting room call screen, edit bay, research, break room, bunks), posting schedule + affiliate panel, phone version on GitHub Pages (auto-publish every 5 min). See Dashboard README",
+   "eta": "—",
+   "waiting": "",
+   "updated": "Tue 10 Nov 13:29"
+  }
+ ],
+ "file_updated": "Sat 14 Nov 03:21",
+ "schedule": {
+  "ok": true,
+  "days": [
+   {
+    "num": 1,
+    "day": "Mon",
+    "posts": [
+     {
+      "slot": "1pm",
+      "title": "Bulk Smash Clock"
+     },
+     {
+      "slot": "6pm",
+      "title": "I Tried A Romance Scam On A Man"
+     },
+     {
+      "slot": "9pm",
+      "title": "Worst Scammer Of All Time"
+     }
+    ]
+   },
+   {
+    "num": 2,
+    "day": "Tue",
+    "posts": [
+     {
+      "slot": "1pm",
+      "title": "I Planned A Date To Scam Him"
+     },
+     {
+      "slot": "6pm",
+      "title": "My Chat Made Me Do 5 Handstands"
+     }
+    ]
+   },
+   {
+    "num": 3,
+    "day": "Wed",
+    "posts": []
+   },
+   {
+    "num": 4,
+    "day": "Thu",
+    "posts": []
+   },
+   {
+    "num": 5,
+    "day": "Fri",
+    "posts": []
+   },
+   {
+    "num": 6,
+    "day": "Sat",
+    "posts": []
+   },
+   {
+    "num": 7,
+    "day": "Sun",
+    "posts": [
+     {
+      "slot": "1pm",
+      "title": "TikTok Flagged My Fit Check"
+     },
+     {
+      "slot": "6pm",
+      "title": "Crashouts 3"
+     }
+    ]
+   }
+  ],
+  "bank": 2
+ },
+ "config": {
+  "followers": 38,
+  "followers_needed": 25,
+  "affiliate_avg3_days": 3,
+  "affiliate_needed": 4,
+  "affiliate_note": "3/4 confirmed. Fri 13 Nov averaged 3, so it might be the 4th: waiting for Twitch to update (1-2 days).",
+  "affiliate_deadline": "Mon 23 Nov (Iceland)",
+  "affiliate_deadline_date": "2026-11-23",
+  "next_stream": "Sat 14 Nov 6pm - Elden Ring + reacts",
+  "next_stream_iso": "2026-11-14T18:00:00",
+  "week_streams": [
+   "Tue - Elden Ring (Malenia) ✅",
+   "Wed - Scam game with friends ✅",
+   "Thu - no stream (gear test day)",
+   "Fri - PBZ/Elden Ring + reacts ✅ (avg 3)",
+   "Sat 6pm - Elden Ring + reacts"
+  ],
+  "slots": [
+   "1pm",
+   "6pm",
+   "9pm"
+  ],
+  "shorts_per_day": 3,
+  "message": "",
+  "youtube_schedule": [
+   {
+    "date": "2026-11-09",
+    "time": "6:30pm",
+    "title": "Did He Deserve More Than 6 Months For This? (Jeep bodycam react)",
+    "status": "posted"
+   },
+   {
+    "date": "2026-11-10",
+    "time": "6:30pm",
+    "title": "The UK Is Actually Cooked (Deji Reaction)",
+    "status": "posted"
+   },
+   {
+    "date": "2026-11-11",
+    "time": "6:30pm",
+    "title": "They Made The Cat In The Hat A Horror Movie...",
+    "status": "posted"
+   },
+   {
+    "date": "2026-11-12",
+    "time": "6:30pm",
+    "title": "Can The Elden Ring Movie Actually Be Good? (penguinz0 react, A/B test x3)",
+    "status": "scheduled"
+   }
+  ],
+  "youtube_slot": "6:30pm",
+  "affiliate_done": false,
+  "last5_avg_viewers": null,
+  "twitch_goal_followers": 50,
+  "twitch_goal_avg_viewers": 5,
+  "yt_subs": 28,
+  "yt_longform_hours": 15.7,
+  "yt_hours_updated": "13 Nov"
+ },
+ "call": {
+  "active": false,
+  "last": 1794670459624
+ },
+ "events": [],
+ "growth": {
+  "affiliate_done": false,
+  "yt_subs": 28,
+  "yt_subs_auto": true,
+  "yt_subs_at": 1794671850634,
+  "yt_longform_hours": 15.7,
+  "yt_hours_updated": "13 Nov",
+  "twitch_followers": 38,
+  "last5_avg_viewers": null,
+  "twitch_goal_followers": 50,
+  "twitch_goal_avg_viewers": 5
+ },
+ "published": true
+}
