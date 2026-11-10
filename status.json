@@ -1,0 +1,255 @@
+{
+ "generated": 1795367250842,
+ "generated_text": "Sun 22 Nov 17:07",
+ "agents": [
+  {
+   "name": "Ultron",
+   "role": "brain",
+   "status": "Ã¢ÂÂ¸Ã¯Â¸Â Idle",
+   "state": "idle",
+   "task": "Tue 17 Nov 22:40: Ã°Å¸Å½â€° TWITCH AFFILIATE. YouTube Tue-Fri all set (Malenia Tue, DCU Wed, Sonic Thu, EDP Fri upload). PS5 tested + fixed. GPU Whisper fixed (signed DLLs). Shorts: this week full (3/day), Iceland bank 13/27",
+   "eta": "Ã¢â‚¬â€",
+   "waiting": "Wed: GTA 6 pre-download before Asda (PS5 Rest Mode) Ã‚Â· ~2:30pm Case thumbnail talk + YouTube plan Ã‚Â· stream 7-11 with a reacts hour + announce affiliate Ã‚Â· Fri: upload EDP445 v4",
+   "updated": "Tue 17 Nov 22:40"
+  },
+  {
+   "name": "Jynxzi",
+   "role": "clipper",
+   "status": "⏸️ Ready",
+   "state": "idle",
+   "task": "✅ Sat 21 Nov GTA 6 VOD (2 split files A+B) transcribed → words.json to Joe + NEVER USE ranges; 15 picks → Speed (top: clothes-shop 'closed due to a robbery' arc, karma system, 'am I the goat' crash, [amount] chase → WASTED, [amount]robbery, makeover → violence) for the post-Iceland bank",
+   "eta": "—",
+   "waiting": "",
+   "updated": "Sat 21 Nov 22:55"
+  },
+  {
+   "name": "Speed",
+   "role": "shorts editor",
+   "status": "⏸️ Ready",
+   "state": "idle",
+   "task": "✅ Fri-20 GTA batch: 15 Shorts new style (21-meme library, big memes), Zeph-scored (Pigeon 7.5 best); 16 from 19 Nov done earlier. Style: fx_pass + plans.py. Awaiting Zeph's last check on 4 + Kabob review",
+   "eta": "—",
+   "waiting": "Ultron: schedule Ranking apart from the 4 clips it reuses",
+   "updated": "Sat 21 Nov 02:23"
+  },
+  {
+   "name": "Joe",
+   "role": "YouTube editor",
+   "status": "⏸️ Ready",
+   "state": "idle",
+   "task": "✅ GTA 6 Ep7 v2 (15.0m), Ep8 (15.4m), Ep9 v2 (20.7m) Zeph-passed, in [folder] Bank (only finals left). Case doing thumbs. Next VOD after Iceland",
+   "eta": "—",
+   "waiting": "",
+   "updated": "Sat 21 Nov 23:25"
+  },
+  {
+   "name": "Case",
+   "role": "titles + thumbnails",
+   "status": "⏸️ Ready",
+   "state": "idle",
+   "task": "Fri 20 Nov: DONE. Ep2 NEW STYLE swap pack ready for Sat morning (Zeph: bar 8 / window 8 / wreck 7.5, in 'STUDIO SWAP SAT'); Ep1 keeps the live set; Ep3/Ep4 new-style sets built + scored and banked (Review Tonight). Next: Fri/Sat GTA episodes when Joe sends them, same new style, fresh faces per video via Ultron",
+   "eta": "—",
+   "waiting": "Kabob: Studio swap Ep2 Sat morning · fresh faces per new video",
+   "updated": "Fri 20 Nov"
+  },
+  {
+   "name": "Zeph",
+   "role": "viewer / shorts critic",
+   "status": "⏸️ Idle",
+   "state": "idle",
+   "task": "✅ Sat 21 Nov: GTA Ep 7-9 cleared for bank (7 / 6.5 / 7). All Shorts + episodes in queue checked",
+   "eta": "—",
+   "waiting": "Piss Bottle post or bin? · Yes/no on 4 pending memes",
+   "updated": "Sat 21 Nov"
+  },
+  {
+   "name": "Kabob",
+   "role": "trader",
+   "status": "Ã¢ÂÂ¸Ã¯Â¸Â Idle",
+   "state": "idle",
+   "task": "Ã¢Å“â€¦ Halal AI Shortlist done (Thu 12 Nov 23:40) Ã¢â€ â€™ Halal AI Shortlist note (Trader folder), for the Mon 16 Nov review. Learn Day 1 done earlier (IFG 375/375)",
+   "eta": "Ã¢â‚¬â€",
+   "waiting": "Ã¢â‚¬â€",
+   "updated": "Fri 13 Nov"
+  },
+  {
+   "name": "HQ Builder",
+   "role": "dashboard",
+   "status": "Ã¢ÂÂ¸Ã¯Â¸Â Idle",
+   "state": "idle",
+   "task": "Ã¢Å“â€¦ Ultron HQ v2 live: 12-room pixel office (meeting room call screen, edit bay, research, break room, bunks), posting schedule + affiliate panel, phone version on GitHub Pages (auto-publish every 5 min). See Dashboard README",
+   "eta": "Ã¢â‚¬â€",
+   "waiting": "Ã¢â‚¬â€",
+   "updated": "Tue 10 Nov 13:29"
+  }
+ ],
+ "file_updated": "Sat 21 Nov 23:26",
+ "schedule": {
+  "ok": true,
+  "days": [
+   {
+    "num": 1,
+    "day": "Mon",
+    "posts": []
+   },
+   {
+    "num": 2,
+    "day": "Tue",
+    "posts": []
+   },
+   {
+    "num": 3,
+    "day": "Wed",
+    "posts": []
+   },
+   {
+    "num": 4,
+    "day": "Thu",
+    "posts": []
+   },
+   {
+    "num": 5,
+    "day": "Fri",
+    "posts": []
+   },
+   {
+    "num": 6,
+    "day": "Sat",
+    "posts": []
+   },
+   {
+    "num": 7,
+    "day": "Sun",
+    "posts": [
+     {
+      "slot": "1pm",
+      "title": "GTA 6 Doing Handstands Until Something Breaks"
+     },
+     {
+      "slot": "6pm",
+      "title": "The Gold-Masked One Is Actually Unfair"
+     },
+     {
+      "slot": "9pm",
+      "title": "Malenia's Wings Take Up Half My Screen"
+     }
+    ]
+   }
+  ],
+  "bank": 6
+ },
+ "config": {
+  "followers": 41,
+  "followers_needed": 25,
+  "affiliate_avg3_days": 4,
+  "affiliate_needed": 4,
+  "affiliate_note": "Fri 13 + Sat 14 both averaged 3. Should be 4/4 once Twitch updates (1-2 days). Watch for the invite email.",
+  "affiliate_deadline": "Mon 23 Nov (Iceland)",
+  "affiliate_deadline_date": "2026-11-23",
+  "next_stream": "Sat 21 Nov - GTA 6 all day (~12pm-11pm)",
+  "next_stream_iso": "2026-11-19T19:30:00",
+  "week_streams": [
+   "Thu 19 GTA 6 LAUNCH - long stream",
+   "Fri 20 GTA 6 after badminton (no Asda)",
+   "Sat 21 GTA 6",
+   "Iceland 23 Nov - 1 Dec: no streams"
+  ],
+  "slots": [
+   "1pm",
+   "3:30pm",
+   "6pm",
+   "9pm",
+   "11pm"
+  ],
+  "shorts_per_day": 5,
+  "message": "TWITCH AFFILIATE (Tue 17 Nov)! Malenia video live 6:30pm.",
+  "youtube_schedule": [
+   {
+    "date": "2026-11-11",
+    "time": "6:30pm",
+    "title": "They Made The Cat In The Hat A Horror Movie...",
+    "status": "posted"
+   },
+   {
+    "date": "2026-11-12",
+    "time": "6:30pm",
+    "title": "Can The Elden Ring Movie Actually Be Good? (penguinz0 react, A/B test x3)",
+    "status": "posted"
+   },
+   {
+    "date": "2026-11-13",
+    "time": "6:30pm",
+    "title": "I Bet Bunny Ears I'd First Try Malenia (gaming highlight, A/B x3)",
+    "status": "posted"
+   },
+   {
+    "date": "2026-11-14",
+    "time": "6:30pm",
+    "title": "Police Grappler Tore This Car In Half (Midwest Safety react, A/B x3)",
+    "status": "posted"
+   },
+   {
+    "date": "2026-11-15",
+    "time": "6:30pm",
+    "title": "He Really Thought JiDion Would Let Him Go (JiDion react, A/B x3)",
+    "status": "posted"
+   },
+   {
+    "date": "2026-11-16",
+    "time": "6:30pm",
+    "title": "There's A Reason Doom Waited For Hawkeye To Retire (Doomsday theories react, A/B x3)",
+    "status": "posted"
+   },
+   {
+    "date": "2026-11-17",
+    "time": "6:30pm",
+    "title": "Elden Ring: The Moment Malenia Finally Dies",
+    "status": "scheduled"
+   },
+   {
+    "date": "2026-11-18",
+    "time": "6:30pm",
+    "title": "DC Never Gave James Gunn A Chance (react)",
+    "status": "scheduled"
+   },
+   {
+    "date": "2026-11-19",
+    "time": "6:30pm",
+    "title": "SEGA Finally Made The Sonic Anime We Wanted (moved from Tue)",
+    "status": "scheduled"
+   },
+   {
+    "date": "2026-11-20",
+    "time": "6:30pm",
+    "title": "How JiDion Finally Got EDP445 Arrested (react) - upload Fri",
+    "status": "editing"
+   }
+  ],
+  "youtube_slot": "6:30pm",
+  "affiliate_done": true,
+  "last5_avg_viewers": null,
+  "twitch_goal_followers": 50,
+  "twitch_goal_avg_viewers": 5,
+  "yt_subs": 29,
+  "yt_longform_hours": 15.7,
+  "yt_hours_updated": "13 Nov"
+ },
+ "call": {
+  "active": true,
+  "last": 1795367237320
+ },
+ "events": [],
+ "growth": {
+  "affiliate_done": true,
+  "yt_subs": 33,
+  "yt_subs_auto": true,
+  "yt_subs_at": 1795366650848,
+  "yt_longform_hours": 15.7,
+  "yt_hours_updated": "13 Nov",
+  "twitch_followers": 41,
+  "last5_avg_viewers": null,
+  "twitch_goal_followers": 50,
+  "twitch_goal_avg_viewers": 5
+ },
+ "published": true
+}
